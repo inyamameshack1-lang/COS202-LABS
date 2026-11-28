@@ -1,1 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
 
+        System.out.println("NAME: INYAMA MESHACK");
+        System.out.println("MATRIC NUMBER: EDU/LIS/24/052");
+        System.out.println("DEPARTMENT: LIBRARY AND INFORMATION SCIENCE");
+        System.out.println("FAVOURITE QUOTE: NEVER GIVE UP");
+
+    }
+}
